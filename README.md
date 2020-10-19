@@ -38,7 +38,7 @@
 
 ### 🌱 Connect Me
 
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](397618365@qq.com)
+![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)]
 
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
