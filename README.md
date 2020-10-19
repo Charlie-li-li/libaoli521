@@ -10,11 +10,11 @@
 
 ​	Hi！🙉
 
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
+👯 I’m looking to collaborate on <br />
+🤔 I’m looking for help with  <br />
+💬 Ask me about  <br />
+📫 How to reach me  <br />
+😄 Pronouns  <br />
 
 
 ### 🤝🏻 Tech Stack
@@ -37,9 +37,9 @@
 </p>
 
 ### 🌱 Connect Me
-![Github](https://github.com/libaoli521)[![Blog](https://www.cnblogs.com/libaoli/)](397618365@qq.com)
+
+![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](397618365@qq.com)
+
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
-
-
 
