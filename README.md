@@ -36,9 +36,6 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 
-### 🌱 Connect Me
-
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)]
 
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
